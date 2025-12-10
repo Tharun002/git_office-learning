@@ -1,0 +1,4 @@
+git branch -M main -- current branch to main
+
+git status -- which branch, what changes made
+
