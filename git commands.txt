@@ -13,3 +13,8 @@ git push origin main
 
 I have updated till this in local to remote and now i am adding one more line.
 
+git branch
+
+git checkout -b branch1 
+
+git push origin branch1
