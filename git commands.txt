@@ -20,6 +20,5 @@ git checkout -b branch1
 git push origin branch1
 
 
-i am just checking 
+i am just checking git
 
-git git 
